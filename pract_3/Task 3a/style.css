@@ -1,0 +1,337 @@
+body {
+    background-color: #4551DD;
+}
+.p1 {
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+}
+.p1p {
+    border-radius: 50%;
+    width: 600px;
+    height: auto;
+    transform: translateX(-30px);
+}
+.firstgrid {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 30px;
+    width: 520px;
+    height: auto;
+}
+.card {
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 15px;
+}
+.card img {
+    width: 60px;
+    height: auto;
+    background-color: #F8B001;
+    padding: 15px;
+    box-sizing: border-box;
+    border-radius: 50%;
+}
+.right {
+    margin-left: -350px;
+    margin-top: 230px;
+    position: relative;
+}
+.right h1 {
+    color: white;
+    background-color: #4551DD;
+    padding: 40px;
+    border-radius: 15px;
+}
+.card p {
+    color: #4551DD;
+}
+.if a,
+.if {
+    color: white;
+    text-align: right;
+}
+.center {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.center h2 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+.center p {
+    text-align: center;
+    color: white;
+    margin: 5px;
+}
+.grid2 {
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+.grid22 {
+    background-color: white;
+    padding: 20px;
+    width: 250px;
+    border-radius: 15px;
+    text-align: center;
+}
+.grid22 img {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+.frip {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+.values {
+    margin-top: 80px;
+    padding-bottom: 60px;
+    background: linear-gradient(to bottom, #4551DD 45%, #F8B001 45%, #F8B001 85%, #4551DD 85%);
+}
+.grid3 {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    max-width: 750px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.card3 {
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+}
+.card3 h3 {
+    color: #4551DD;
+    margin: 0;
+}
+.card3 p {
+    color: gray;
+    font-size: 14px;
+}
+.card3 .arrow {
+    color: #4551DD;
+    text-align: right;
+    font-size: 24px;
+    margin: 0;
+}
+.btn {
+    display: inline-block;
+    background-color: #F8B001;
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-size: 12px;
+}
+.small {
+    font-size: 12px;
+    font-style: italic;
+}
+.stats {
+    max-width: 750px;
+    margin: 0 auto;
+    margin-top: 80px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    color: white;
+}
+.numbers {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px 60px;
+    text-align: center;
+}
+.numbers h2 {
+    font-size: 50px;
+    margin: 0;
+}
+.numbers p {
+    margin: 0;
+    font-size: 13px;
+}
+.stats-text h3 {
+    font-size: 26px;
+    font-weight: normal;
+}
+.mission {
+    margin-top: 100px;
+    padding-bottom: 80px;
+    background: linear-gradient(to bottom, #4551DD 50%, white 50%);
+}
+.mission-in {
+    max-width: 750px;
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-end;
+}
+.mission-card {
+    background-color: white;
+    padding: 30px;
+    width: 300px;
+    border-radius: 10px 10px 0 0;
+    position: relative;
+    z-index: 1;
+}
+.mission-img {
+    width: 450px;
+    border-radius: 50%;
+    margin-left: -60px;
+}
+.people {
+    background-color: white;
+    padding: 40px 0;
+}
+.person {
+    max-width: 750px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 150px 1fr;
+    gap: 30px;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.person img {
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid #F8B001;
+    box-sizing: border-box;
+}
+.person-text h4 {
+    color: #4551DD;
+    margin: 0;
+}
+.person-text p {
+    font-size: 13px;
+}
+.left {
+    text-align: right;
+}
+.bird {
+    font-size: 40px;
+}
+.quote {
+    text-align: center;
+    color: white;
+    padding: 40px 0;
+}
+.marks {
+    color: #F8B001;
+    font-size: 100px;
+    margin: 0;
+    line-height: 60px;
+}
+.quote-img {
+    width: 180px;
+    border-radius: 50%;
+    position: relative;
+    z-index: 1;
+    margin-bottom: -90px;
+}
+.quote-box {
+    background-color: white;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 100px 40px 40px 40px;
+    border-radius: 10px;
+}
+.quote-box h3 {
+    color: #4551DD;
+    font-size: 24px;
+    margin: 0;
+}
+.author {
+    font-weight: bold;
+    margin-top: 30px;
+}
+.quote a {
+    color: white;
+}
+.contact {
+    background-color: white;
+    padding: 40px 0;
+}
+.contact-in {
+    max-width: 750px;
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.contact-in img {
+    width: 50%;
+}
+.form {
+    width: 50%;
+    padding: 20px;
+}
+.form h2 {
+    text-align: center;
+}
+.form label {
+    font-size: 12px;
+}
+.form input,
+.form textarea {
+    width: 100%;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    padding: 8px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+.form .small input {
+    width: auto;
+}
+.form button {
+    width: 100%;
+    background-color: #4551DD;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.info {
+    max-width: 750px;
+    margin: 0 auto;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
+.info-card {
+    background-color: #4551DD;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 12px;
+}
+.info-card h4 {
+    margin: 0 0 10px 0;
+}
+.dark {
+    text-align: center;
+}
+.footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    padding: 40px 0;
+}
+.footer a {
+    color: white;
+}
