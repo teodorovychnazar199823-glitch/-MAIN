@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">The New Design Frontier</title>
+  <desc id="desc">Circular white lettering reading The New Design Frontier around a centered downward arrow, on a transparent background.</desc>
+  <g fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="400">
+    <text x="249.232" y="315.984" text-anchor="middle" dominant-baseline="central" transform="rotate(157 249.232 315.984)">T</text>
+    <text x="213.171" y="325.310" text-anchor="middle" dominant-baseline="central" transform="rotate(174 213.171 325.310)">H</text>
+    <text x="175.958" y="323.685" text-anchor="middle" dominant-baseline="central" transform="rotate(191 175.958 323.685)">E</text>
+    <text x="124.171" y="300.628" text-anchor="middle" dominant-baseline="central" transform="rotate(217 124.171 300.628)">N</text>
+    <text x="96.787" y="272.271" text-anchor="middle" dominant-baseline="central" transform="rotate(235 96.787 272.271)">E</text>
+    <text x="78.881" y="234.730" text-anchor="middle" dominant-baseline="central" transform="rotate(254 78.881 234.730)">W</text>
+    <text x="76.753" y="173.803" text-anchor="middle" dominant-baseline="central" transform="rotate(282 76.753 173.803)">D</text>
+    <text x="88.749" y="140.847" text-anchor="middle" dominant-baseline="central" transform="rotate(298 88.749 140.847)">E</text>
+    <text x="109.363" y="112.473" text-anchor="middle" dominant-baseline="central" transform="rotate(314 109.363 112.473)">S</text>
+    <text x="133.230" y="93.146" text-anchor="middle" dominant-baseline="central" transform="rotate(328 133.230 93.146)">I</text>
+    <text x="165.270" y="78.881" text-anchor="middle" dominant-baseline="central" transform="rotate(344 165.270 78.881)">G</text>
+    <text x="200.000" y="74.000" text-anchor="middle" dominant-baseline="central" transform="rotate(360 200.000 74.000)">N</text>
+    <text x="247.200" y="83.175" text-anchor="middle" dominant-baseline="central" transform="rotate(22 247.200 83.175)">F</text>
+    <text x="279.294" y="102.080" text-anchor="middle" dominant-baseline="central" transform="rotate(39 279.294 102.080)">R</text>
+    <text x="305.672" y="131.375" text-anchor="middle" dominant-baseline="central" transform="rotate(57 305.672 131.375)">O</text>
+    <text x="321.707" y="167.389" text-anchor="middle" dominant-baseline="central" transform="rotate(75 321.707 167.389)">N</text>
+    <text x="325.827" y="206.594" text-anchor="middle" dominant-baseline="central" transform="rotate(93 325.827 206.594)">T</text>
+    <text x="319.135" y="241.022" text-anchor="middle" dominant-baseline="central" transform="rotate(109 319.135 241.022)">I</text>
+    <text x="304.459" y="270.458" text-anchor="middle" dominant-baseline="central" transform="rotate(124 304.459 270.458)">E</text>
+    <text x="280.991" y="296.522" text-anchor="middle" dominant-baseline="central" transform="rotate(140 280.991 296.522)">R</text>
+  </g>
+  <path d="M 200 169 V 246 M 182 228 L 200 246 L 218 228" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter" />
+</svg>
